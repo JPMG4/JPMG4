@@ -1,4 +1,5 @@
-#About Me:
+**About Me:**
+
 👋 I’m a Systems Engineering student, currently finishing my degree.<br>🔐 I’m focused on backend development and cybersecurity, with an interest in building secure and scalable solutions.<br>🌱 I’m currently learning Python, Go, JavaScript, TypeScript, and SQL.
 
 
